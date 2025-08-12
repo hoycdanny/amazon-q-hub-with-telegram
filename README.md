@@ -13,7 +13,7 @@
 - 🧹 **ANSI 清理**: 自動清理終端控制字符，確保乾淨輸出
 - 📝 **詳細日誌**: 完整的操作記錄和錯誤追蹤
 
-## ✨展示截圖
+## ✨功能展示
 
 ![Demo](image/demo.png)
 
@@ -25,20 +25,6 @@
 - **故障排除**: 快速診斷和解決 AWS 相關問題
 - **學習輔助**: 學習 AWS 服務和最佳實踐
 - **團隊協作**: 團隊成員可以共享 AWS 查詢和建議
-
-## �  功能展示
-
-### 互動式會話
-![互動式會話](images/interactive-chat.png)
-
-### AWS 資源查詢
-![AWS 資源查詢](images/aws-resources.png)
-
-### 智能進度提示
-![智能進度提示](images/progress-indicators.png)
-
-### 終端風格輸出
-![終端風格輸出](images/terminal-output.png)
 
 ## 🚀 快速開始
 
