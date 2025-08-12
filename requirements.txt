@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+pexpect==4.9.0
+python-dotenv==1.0.0
+python-dotenv==1.0.0
